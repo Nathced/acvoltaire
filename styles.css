@@ -86,7 +86,7 @@ header .menu-toggle .hamburger::after {
 }
 
 .hero {
-    background-color: #b22222;
+    background-color: #F67272;
     color: #fff;
     text-align: center;
     padding: 50px 20px;
@@ -161,7 +161,7 @@ header .menu-toggle .hamburger::after {
     display: inline-block;
     padding: 10px 15px;
     margin: 5px 0;
-    background-color: #b22222;
+    background-color: #F67272;
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
@@ -191,7 +191,7 @@ header .menu-toggle .hamburger::after {
         display: none;
         flex-direction: column;
         width: 100%;
-        background-color: #b22222;
+        background-color: #F67272;
         border-radius: 0 0 10px 10px;
     }
 
