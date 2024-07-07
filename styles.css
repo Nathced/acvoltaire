@@ -3,12 +3,12 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #f0f0f0;
+    background-color: #E3FAF8;
     color: #333;
 }
 
 header {
-    background-color: #b22222;
+    background-color: #F67272;
     color: #fff;
     padding: 10px 0;
     border-radius: 0 0 10px 10px;
